@@ -1,0 +1,7 @@
+free weight -> no vital
+weight goal -> no vital
+diabetese medication -> Drug
+goal weight -> no vital
+on the <drug> -> 
+wt. followed by number -> Vital
+body fat -> vital

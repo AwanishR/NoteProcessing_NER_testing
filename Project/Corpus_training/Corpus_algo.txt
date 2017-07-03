@@ -1,0 +1,22 @@
+Training data structure - <START:corp> DATA <END>
+Corpus Algorightm
+For each line in training file
+Find nth position of "<START:cop" where corp ={"habit","procedure","diagnosis","drug","vital"}
+remaining_line -> line_substring [n:end of line]
+extract the corpus data 
+corp_data -> substring_of _remaining_line[startpos:endpos] where startpos = index of ">" in string remainig_line +1, endpos = index of "<" in string remainin_lin
+remove leading and trailing spaces
+Write in corpus_temp file
+Removing duplicate entry and store in corpus file
+create a list of seen lines; line_seen.
+read line from corpus_temp file,
+if line is not in line_seen,
+write in corpus file
+add in the list of line_seen
+end
+Corpus reader
+get input srting
+match the string in corpus file
+if match found
+return file name
+else return no_match status

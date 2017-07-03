@@ -1,0 +1,8 @@
+Acii removal - 
+
+•	to empty
+ –  to -
+ ’ to '
+ ” to "
+ “ to "
+ � to empty

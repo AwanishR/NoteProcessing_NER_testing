@@ -1,0 +1,28 @@
+2067
+>>Total Procedure detected << 76
+>>Total Diagnosis detected << 93
+>>Total Drugs detected << 75
+>>Total Habits detected << 33
+>>Total Vitals detected << 57
+
+
+
+Training Started .....
+Training Ended !!
+Total Training notes->1537
+Total Time taken to train 1537 notes is 0 munutes and 10 seconds
+>>Total Procedure detected << 101
+>>Total Diagnosis detected << 151
+>>Total Drugs detected << 114
+>>Total Habits detected << 47
+>>Total Vitals detected << 65
+
+Training Started .....
+Training Ended !!
+Total Training notes->2242
+Total Time taken to train 2242 notes is 0 munutes and 21 seconds
+>>Total Procedure detected << 119
+>>Total Diagnosis detected << 210
+>>Total Drugs detected << 157
+>>Total Habits detected << 59
+>>Total Vitals detected << 87
